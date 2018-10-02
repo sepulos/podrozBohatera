@@ -1,0 +1,11 @@
+html {
+    overflow: auto;
+}
+
+body {
+    overflow: auto;
+}
+
+.text-box{
+    position: absolute;
+}
